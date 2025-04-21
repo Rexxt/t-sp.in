@@ -1,0 +1,20 @@
+# Setup
+title:               "t-sp.in"
+tagline:             ""
+description:         "A site to host a bunch of documents easily."
+url:                 https://t-sp.in
+baseurl:             ''
+permalink:           pretty
+include:             [".well-known", ".nojekyll"]
+
+# About/contact
+author:
+  name:              ameliaRTA
+  url:               https://t-sp.in
+
+# Gems
+gems:
+  - jekyll-redirect-from
+
+# Custom vars
+version:             3.0.0
