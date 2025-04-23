@@ -5,7 +5,7 @@ title: "ungeneric block game"
 
 **ungeneric block game** (name tentative) is a fangame of a certain block-related video game you may have seen once or twice. This fangame is a one-individual-project, based on the Cambridge engine.
 
-ungeneric block game is still a work in progress, as such, there are currently no download links available. It should be pointed out that it will also not be hosted on GitHub in the future, but it will be open source under the MIT license, as Cambridge has been. What does exist is a description of the upcoming modes, which you can find below.
+ungeneric block game is still a work in progress, as such, there are currently no download links available. It should be pointed out that it will also not be hosted on GitHub in the future - That said, the code itself will be open source under the MIT, as Cambridge has been - other assets will be under different licenses or used with explicit permission by the respective creators, all of this will be listed in the readme file. 
 
 It should be pointed out that this is a non-profit open-source hobby project done by an individual that doesn't consider themselves a programmer in any way. As such, the code quality will not be the best.
 
