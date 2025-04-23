@@ -48,4 +48,21 @@ More curses will be added in the future, one at a time.
 
 ## So, When's the release?
 
-When it's ready and when I feel like releasing it to the public.
+When it's ready and when I feel like releasing it to the public. With that said, I intend for two major versions for now:
+
+* v1 will have the modes in it, at the very least, but no curse system yet. It will also be based on an older version of Cambridge without replay support and not perfect rendering.
+* v2 will be based on the current dev version of Cambridge, which means I will have to get familiar with the vastly changed codebase and port all components over one by one. Because this would take significant effort, I'm aiming for a v1 release with a codebase I'm used to at this point so I can get the gamemodes out there faster. Besides, v1 is very playable anyway.
+
+## So is this really completely made by you?
+
+Well, yes, but actually, not quite. Full credits will appear on this page when I have a version out for play, but for now, this is here:
+
+* Gamemode ideas and programming: shapeless
+* Most visual assets: shapeless
+* Sound effects: shapeless
+* Backgrounds: Most from unsplash.com, I believe? I will replace those placeholders eventually.
+* Music: [CosmicTailz](https://cosmictailz.bsky.social) (Thank you for letting me use your remixes for this!)
+* Cambridge Developers: for making Cambridge, the base engine I use for this project
+* Special thanks:
+  * Tetrisconcept
+  * Any playtesters that I may end up contacting. They will be listed here one by one.
