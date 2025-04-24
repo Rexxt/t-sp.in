@@ -50,7 +50,7 @@ More curses will be added in the future, one at a time.
 
 When it's ready and when I feel like releasing it to the public. With that said, I intend for two major versions for now:
 
-* v1 will have the modes in it, at the very least, but no curse system yet. It will also be based on an older version of Cambridge without replay support and not perfect rendering.
+* v1 will have the complete gameplay experience in it, including curses.
 * v2 will be based on the current dev version of Cambridge, which means I will have to get familiar with the vastly changed codebase and port all components over one by one. Because this would take significant effort, I'm aiming for a v1 release with a codebase I'm used to at this point so I can get the gamemodes out there faster. Besides, v1 is very playable anyway.
 
 ## So is this really completely made by you?
