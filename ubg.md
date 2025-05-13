@@ -13,6 +13,7 @@ If you have complaints about the code quality, that's unfortunate, but also not 
 
 ## Features
 * Cambridge's engine ported to 720p, this also works great for Steam Deck users!
+    * Yes, the game works flawlessly on Steam Deck, I'm testing this personally.)
     * This also means completely reworked visuals and sounds from the original.
 * Unique gamemodes centered around Low-G gameplay and simplicity.
     * Not a single mode will have gravity higher than 2G at any given point.
@@ -21,36 +22,32 @@ If you have complaints about the code quality, that's unfortunate, but also not 
 	* No traditional torikans.
 	* Modes are intended to be 3-6 Minutes long.
 	* Most base modes are intended to be on the easier side for clearing but allow for very high skill ceilings.
-* Modes can be enhanced with unique "curse" modifiers that add an optional extra layer of difficulty.
+* Different modifiers selectable for varying amounts of difficulty.
 
 ## Gamemodes
 
 I will only list the names of the modes and their difficulty, as the details are still a work in progress, but mostly finished and in testing. Also, there's the whole spoiler argument. I'd rather have people dive in without previous knowledge.
 
-* Combothon - Easiest and most casual gamemode of the bunch for sure.
-* Pharaoh - Easy if your stacking is methodical.
+* (name pending) - Easy if your stacking is methodical.
 * Daredevil - Easy if you take it slow, hard if you push your limits.
 * Relentless - Hardest gamemode on a base level, but feel free to give it a try!
 
 Possibly more modes will be added, but this is the roster for now.
 
-## Curses
+## Modifiers
 
-As with the gamemodes above, I will only list the names of the curses. Every curse will be balanced for the corresponding mode. Only one curse can be enabled at a time and is selected before the mode is.
+Modifiers will, well, modify your experience. Here's a list of them that are currently planned:
 
-* Floating curse
-* Garbage curse
-* Strain curse
-* Bleak curse
-* Monkey's paw
-
-More curses will be added in the future, one at a time.
+* Standard: Your standard experience, recommended for those first trying out the game to get a feel for it.
+* Strain: Harder difficulty with stricter timings and additional changes to make the mode harder.
+* Chronos: Time attack-based mode. I'm still working on the specifics, it's not quite set in stone yet.
+* Extra: Random assorted modes that are either not up to my current standards or scrapped as a whole, but I still wanted to include them for people to discover.
 
 ## So, When's the release?
 
 When it's ready and when I feel like releasing it to the public. With that said, I intend for two major versions for now:
 
-* v1 will have the complete gameplay experience in it, including curses.
+* v1 will have the complete gameplay experience in it, including all modifiers.
 * v2 will be based on the current dev version of Cambridge, which means I will have to get familiar with the vastly changed codebase and port all components over one by one. Because this would take significant effort, I'm aiming for a v1 release with a codebase I'm used to at this point so I can get the gamemodes out there faster. Besides, v1 is very playable anyway.
 
 ## So is this really completely made by you?
