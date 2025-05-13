@@ -13,7 +13,7 @@ If you have complaints about the code quality, that's unfortunate, but also not 
 
 ## Features
 * Cambridge's engine ported to 720p, this also works great for Steam Deck users!
-    * Yes, the game works flawlessly on Steam Deck, I'm testing this personally.)
+    * Yes, the game works flawlessly on Steam Deck, I'm testing this personally.
     * This also means completely reworked visuals and sounds from the original.
 * Unique gamemodes centered around Low-G gameplay and simplicity.
     * Not a single mode will have gravity higher than 2G at any given point.
